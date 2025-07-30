@@ -1,4 +1,4 @@
-# 🧠 AI Resume & Cover Letter Generator Pro  
+# 🧠 AI Resume Generator Pro  
 
 Generate professional resumes and cover letters in seconds using **AI (Hugging Face Transformers + OpenAI Models)** with an integrated **ATS Resume Analyzer** — all within a clean, responsive Streamlit web app.
 
@@ -15,7 +15,8 @@ Generate professional resumes and cover letters in seconds using **AI (Hugging F
 ---
 
 ## 🖼️ Demo  
-*(Optional: Add a live demo link if you deploy this on Streamlit Cloud)*  
+🔗Live Demo:
+https://kavyakhatri-306-ai-resume-generator-pro-app-q0kt10.streamlit.app/
 
 ---
 
