@@ -1,0 +1,35 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables and config files
+.env
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.idea/
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm specific
+*.iml
+
+# Streamlit/Gradio cache
+.streamlit/
+.gradio/
